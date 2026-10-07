@@ -49,9 +49,8 @@
     <path class="icon" d="M182.5 86V93"/>
     <circle class="node" cx="182.5" cy="97.5" r="1.5"/>
 
-    <text class="title" x="182.5" y="145" text-anchor="middle">Failure Modes</text>
-    <text class="body" x="182.5" y="170" text-anchor="middle">How can control fail?</text>
-    <text class="body" x="182.5" y="190" text-anchor="middle">Map risks before they scale.</text>
+    <text class="title" x="182.5" y="145" text-anchor="middle">AI Loc</text>
+    <text class="body" x="182.5" y="170" text-anchor="middle">Loss of Controls!</text>
 
     <circle cx="182.5" cy="91" r="31" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1">
       <animate attributeName="r" values="31;40;31" dur="2.6s" repeatCount="indefinite"/>
@@ -79,10 +78,8 @@
     <rect class="icon" x="588" y="79" width="23" height="23" rx="3"/>
     <path class="icon" d="M592 91L597 96L607 85"/>
 
-    <text class="title" x="599.5" y="145" text-anchor="middle">Evaluations</text>
-    <text class="body" x="599.5" y="170" text-anchor="middle">What signals reveal risk?</text>
-    <text class="body" x="599.5" y="190" text-anchor="middle">Measure capability and oversight.</text>
-
+    <text class="title" x="599.5" y="145" text-anchor="middle">Thematic Coding</text>
+    <text class="body" x="599.5" y="170" text-anchor="middle">What Components Present in that?</text>
     <path d="M580 91H619" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1">
       <animate attributeName="x1" values="580;619;580" dur="2s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="580;619;580" dur="2s" repeatCount="indefinite"/>
@@ -98,9 +95,8 @@
     <path class="icon" d="M1017.5 76L1029 81V90C1029 98 1024 104 1017.5 107C1011 104 1006 98 1006 90V81L1017.5 76Z"/>
     <path class="icon" d="M1012 91L1016 95L1023 87"/>
 
-    <text class="title" x="1017.5" y="145" text-anchor="middle">Safeguards</text>
-    <text class="body" x="1017.5" y="170" text-anchor="middle">How do we retain control?</text>
-    <text class="body" x="1017.5" y="190" text-anchor="middle">Build reliable interventions.</text>
+    <text class="title" x="1017.5" y="145" text-anchor="middle">Casual Loop Modeling</text>
+    <text class="body" x="1017.5" y="170" text-anchor="middle">Map and Analyze the Connections</text>
 
     <circle cx="1017.5" cy="91" r="31" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="1">
       <animate attributeName="r" values="31;37;31" dur="2.2s" repeatCount="indefinite"/>
