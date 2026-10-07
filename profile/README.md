@@ -15,6 +15,12 @@
 
 We investigate and do quantitative Analysis on AI Takeover / Loss of Control Scenarios
 
+### Team:
+1. Swaptik Choudhary
+2. Adya Prasad
+3. Rujuta Karekar
+4. Aaron
+
 ## 🔬 Research Directions
 <div align="center">
 <img src="https://raw.githubusercontent.com/AI-Loc-Research/.github/main/assets/research-directions.svg" width="100%" alt="Research directions" />
